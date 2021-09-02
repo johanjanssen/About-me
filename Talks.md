@@ -3,7 +3,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2021
 
-## October 21-22th Voxxed Days Romania
+## October 21-22th Voxxed Days Romania (online)
 - How and Why to Upgrade to Java 17
 
 ## October 7th JCON (online)
