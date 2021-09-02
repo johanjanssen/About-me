@@ -36,7 +36,3 @@ Extra info:
 - This talk is based on the examples and documentation I created on [GitHub](https://github.com/johanjanssen/JavaUpgrades).
 - Duration can be anything between 25 and 60 minutes. Questions/discussions are more than welcome.
 - The goal is to help projects migrate from older versions such as Java 8 or even older to Java 17.
-
-
-
-
