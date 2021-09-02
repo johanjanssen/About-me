@@ -4,6 +4,10 @@ An incomplete list with (news) articles I wrote over the years.
 # 2021
 
 ## InfoQ
+- Introducing JDKMon: a New Tool to Detect and Update JDKs
+- Internal JDK Elements Strongly Encapsulated in JDK 17
+- GraalVM 21.1 Supports JDK 16
+- JHipster Releases Micronaut Blueprint 1.0.0
 - JetBrains Releases IntelliJ IDEA 2021.1
 - JDK Mission Control 8 Released
 - Convert Spring Boot Apps to GraalVM with Spring Native Beta
@@ -14,6 +18,12 @@ An incomplete list with (news) articles I wrote over the years.
 - Red Hat Releases OptaPlanner 8
 - AdoptOpenJDK Welcomes Dragonwell
 - Apache Netbeans 12.2 Supports Java 14 and 15
+
+## Dutch Java Magazine (print)
+- Hoe upgrade je een applicatie naar Java 17
+
+## Oracle Java magazine
+- It’s time to move your applications to Java 17. Here’s why. And here’s how. [link](https://blogs.oracle.com/javamagazine/migrate-to-java-17)
 
 # 2020
 
