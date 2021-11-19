@@ -1,6 +1,10 @@
 # Talks
 An incomplete list with talks I have presented in the past, or will present in the future.
 
+# 2022
+## March 15-17 JavaLand
+- Why and How to Upgrade to Java 17
+
 # 2021
 
 ## November 19th JCConf (online)
