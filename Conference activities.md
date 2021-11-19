@@ -1,4 +1,8 @@
 # Conference activities
+# 2021
+## November 4th J-Fall
+- NLJUG innovation award committee
+
 # 2020
 
 ## October GOTO Berlin (cancelled due to COVID)

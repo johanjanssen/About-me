@@ -4,6 +4,11 @@ An incomplete list with (news) articles I wrote over the years.
 # 2021
 
 ## InfoQ
+- Red Hat Releases Language Support for Java Plugin 1.0 for VSCode
+- IBM Introduces the Semeru Runtimes for OpenJ9
+- Eclipse Foundation’s Adoptium Releases First Temurin JDK Builds
+- Asserting JDK Flight Recorder Events with JfrUnit
+- Why and How to Upgrade to Java 16 or 17
 - Introducing JDKMon: a New Tool to Detect and Update JDKs
 - Internal JDK Elements Strongly Encapsulated in JDK 17
 - GraalVM 21.1 Supports JDK 16

@@ -3,23 +3,32 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2021
 
+## November 19th JCConf (online)
+- Why and How to Upgrade to Java 17
+
+## November 17th Xebia (online)
+- Podcast: A career in coding
+
 ## October 21-22th Voxxed Days Romania (online)
 - How and Why to Upgrade to Java 17
+
+## October 13th Coffee Club with Dalia and Trisha (online)
+- Migrating to Java 17
 
 ## October 7th JCON (online)
 - How and Why to Upgrade to Java 17
 
 ## September 20th Utrecht JUG
--  Why and How to Upgrade to Java 16 or 17
+- Why and How to Upgrade to Java 16 or 17
 
 ## September 14th Rockstars (hybrid)
--  Why and How to Upgrade to Java 16 or 17
+- Why and How to Upgrade to Java 16 or 17
 
 ## September 8th Computer futures Antwerp 18u30 (online)
--  Why and How to Upgrade to Java 16 or 17
+- Why and How to Upgrade to Java 16 or 17
 
 ## June 29th Pancompany (online)
--  Why and How to Upgrade to Java 16 or 17
+- Why and How to Upgrade to Java 16 or 17
 
 ## June 22th Codemotion DevCast (online)
 - How and Why to Upgrade to Java 16 or 17
