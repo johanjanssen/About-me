@@ -1,9 +1,18 @@
 # Articles
 An incomplete list with (news) articles I wrote over the years.
 
+# 2022
+
+## InfoQ
+- Troubleshooting Java Applications with Eclipse Jifa
+- Eclipse Collections 11.0.0 Features New APIs and Functionality
+
 # 2021
 
 ## InfoQ
+- Migrating Neo4j Graph Schemas with Neo4j Migrations
+- JetBrains Releases IntelliJ IDEA 2021.3 with New Remote Development Feature
+- Kotlin 1.6.0 Released
 - Red Hat Releases Language Support for Java Plugin 1.0 for VSCode
 - IBM Introduces the Semeru Runtimes for OpenJ9
 - Eclipse Foundation’s Adoptium Releases First Temurin JDK Builds
@@ -35,6 +44,10 @@ An incomplete list with (news) articles I wrote over the years.
 ## InfoQ
 - OpenJDK Completes Migration to GitHub
 - New LiveRecorder for Java Enables Software Failure Replay
+- Records and Pattern Matching for Instanceof Finalized in JDK 16
+- OpenJDK Migrates to GitHub
+- Return of the OpenJDK Developers' Guide
+- Spring Boot 2.3.0 Focuses on the Cloud
 
 # 2019
 
