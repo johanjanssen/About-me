@@ -2,6 +2,16 @@
 An incomplete list with talks I have presented in the past, or will present in the future.
 
 # 2022
+
+## June 8th J-Spring
+- Java’s Hidden Gems: Tools and Libraries
+
+## May 25th OpenValue Meetup
+- Why and How to Upgrade to Java 17
+
+## March 31th Amsterdam JUG
+- Why and How to Upgrade to Java 17
+
 ## March 15-17 JavaLand
 - Why and How to Upgrade to Java 17
 

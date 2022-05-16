@@ -4,6 +4,14 @@ An incomplete list with (news) articles I wrote over the years.
 # 2022
 
 ## InfoQ
+- Quarkus 2.8.0 Introduces Fine-Grained Transaction API
+- JetBrains IntelliJ IDEA 2022.1 Introduces Dependency Analysis
+- JobRunr 5.0.0 Delivers Improved Framework Support
+- JHipster Native Blueprint Supports GraalVM Native Image
+- Gradle 7.4 Introduces Aggregated Test Reports
+- Kotlin 1.6.20 Preview Features Context Receivers and Performance Improvements
+- Groovy 4.0.0 Introduces Switch Expressions and Sealed Types
+- Interview with Magnus Madsen about the Flix Programming Language
 - Troubleshooting Java Applications with Eclipse Jifa
 - Eclipse Collections 11.0.0 Features New APIs and Functionality
 
