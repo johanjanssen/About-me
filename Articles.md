@@ -4,6 +4,13 @@ An incomplete list with (news) articles I wrote over the years.
 # 2022
 
 ## InfoQ
+- Introducing Spring Boot Migrator
+- Lightbend Changes Akka License and Is No Longer Open Source
+- Processing Data with Kotlin Dataframe Preview
+- Spring Authorization Server 1.0 Planned for November 2022
+- JetBrains IntelliJ IDEA 2022.2 Uses Java 17 Runtime
+- Kotlin 1.7.0 Beta Enables Definitely Non-Nullable Types
+- MicroStream 7.0 Delivers Support for CDI
 - Quarkus 2.8.0 Introduces Fine-Grained Transaction API
 - JetBrains IntelliJ IDEA 2022.1 Introduces Dependency Analysis
 - JobRunr 5.0.0 Delivers Improved Framework Support
