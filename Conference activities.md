@@ -1,4 +1,9 @@
 # Conference activities
+
+# 2022
+## November 3th J-Fall
+- NLJUG innovation award committee
+
 # 2021
 ## November 4th J-Fall
 - NLJUG innovation award committee
