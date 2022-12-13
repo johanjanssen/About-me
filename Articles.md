@@ -4,6 +4,15 @@ An incomplete list with (news) articles I wrote over the years.
 # 2022
 
 ## InfoQ
+- Payara Cloud Automates Jakarta EE Deployments to Kubernetes
+- Resilience4j 2.0.0 Delivers Support for JDK 17
+- Akka 22.10 Introduces Projections over gRPC
+- Maven Central Search Retrieves Dependency Coordinates from Maven Central
+- BellSoft Introduces Alpaquita Linux for Containerized Java Applications
+- Error Prone Support Introduces New Bug Checks and Refaster Templates
+- ArchUnit Verifies Architecture Rules for Java Applications
+- Error Prone Improves Java Code by Detecting Common Mistakes
+- JUnit 5.9 Supports GraalVM Native Image
 - Introducing Spring Boot Migrator
 - Lightbend Changes Akka License and Is No Longer Open Source
 - Processing Data with Kotlin Dataframe Preview
