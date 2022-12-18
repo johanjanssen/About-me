@@ -1,6 +1,17 @@
 # Talks
 An incomplete list with talks I have presented in the past, or will present in the future.
 
+# 2023
+
+## May 25-26th Voxxed Days Bucharest
+- Java's Hidden Gems: Tools and Libraries
+
+## April 4-6th Devnexus
+- Java's Hidden Gems: Tools and Libraries
+
+## March 23-24th Voxxed Days Bucharest
+- TBD
+
 # 2022
 
 ## June 8th J-Spring
