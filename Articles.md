@@ -4,6 +4,7 @@ An incomplete list with (news) articles I wrote over the years.
 # 2022
 
 ## InfoQ
+- Spring for Apache Kafka 3.0 and Spring for RabbitMQ 3.0 Released
 - Payara Cloud Automates Jakarta EE Deployments to Kubernetes
 - Resilience4j 2.0.0 Delivers Support for JDK 17
 - Akka 22.10 Introduces Projections over gRPC
