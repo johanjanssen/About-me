@@ -3,7 +3,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2023
 
-## May 25-26th DevDays, Vilnius, Lithuania
+## May 25-26th DevDays Europe, Vilnius, Lithuania
 - Java's Hidden Gems: Tools and Libraries
 
 ## April 4-6th Devnexus
