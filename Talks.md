@@ -12,6 +12,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## March 23-24th Voxxed Days Bucharest
 - TBD
 
+## February 5th FOSDEM Brussels
+- Why And How To Upgrade To Java 17 (And Prepare For 21)
+
 # 2022
 
 ## June 8th J-Spring
