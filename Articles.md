@@ -1,9 +1,16 @@
 # Articles
 An incomplete list with (news) articles I wrote over the years.
 
+# 2023
+
+## InfoQ
+- ??
+
 # 2022
 
 ## InfoQ
+- Eclipse Migration Toolkit for Java (EMT4J) Simplifies Upgrading Java Applications
+- Spring Authorization Server 1.0 Provides Oauth 2.1 and OpenID Connect 1.0 Implementations
 - Spring for Apache Kafka 3.0 and Spring for RabbitMQ 3.0 Released
 - Payara Cloud Automates Jakarta EE Deployments to Kubernetes
 - Resilience4j 2.0.0 Delivers Support for JDK 17
