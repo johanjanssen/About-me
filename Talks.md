@@ -6,6 +6,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## May 25-26th DevDays Europe, Vilnius, Lithuania
 - Java's Hidden Gems: Tools and Libraries
 
+## May 10-12th DevoxxUK
+- Java's Hidden Gems: Tools and Libraries
+
 ## April 4-6th Devnexus
 - Java's Hidden Gems: Tools and Libraries
 
