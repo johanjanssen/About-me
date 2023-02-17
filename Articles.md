@@ -4,6 +4,8 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
+- GraalVM Native Image on RISC-V
 - Mockito 5 Supports Mocking Constructors, Static Methods and Final Classes Out of the Box
 - Kubernetes Java Client 17.0 Provides Support for Kubernetes 1.25
 - Spring Cloud 2022.0.0 Delivers Updates to Sub-Projects and JDK 17 Baseline
