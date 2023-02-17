@@ -9,11 +9,20 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## May 10-12th DevoxxUK
 - Java's Hidden Gems: Tools and Libraries
 
+## March 6th Java Day Istanbul
+- Why and How to Upgrade to Java 17 (and Prepare for 21)
+
 ## April 4-6th Devnexus
 - Java's Hidden Gems: Tools and Libraries
 
 ## March 23-24th Voxxed Days Bucharest
-- TBD
+- Why and How to Upgrade to Java 17 (and Prepare for 21)
+
+## March 15th UtrechtJUG
+- Java's Hidden Gems: Tools and Libraries
+
+## March 7th BrabantJUG
+- Java's Hidden Gems: Tools and Libraries
 
 ## February 5th FOSDEM Brussels
 - Why And How To Upgrade To Java 17 (And Prepare For 21)
