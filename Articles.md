@@ -4,6 +4,9 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- Gradle 8.0 Provides Improved Kotlin DSL and Build Times
+- SapMachine Vitals Provides Operating System and JVM Statistics
+- MicroStream Becomes Eclipse Foundation Member
 - Microsoft OpenJDK Introduces Experimental Feature for Improving Escape Analysis
 - GraalVM Native Image on RISC-V
 - Mockito 5 Supports Mocking Constructors, Static Methods and Final Classes Out of the Box
