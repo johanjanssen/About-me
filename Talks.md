@@ -3,7 +3,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2023
 
-## June 1-2th Slovenia
+## June 1-2th JCON OpenBlend, Slovenia
 - Java's Hidden Gems: Tools and Libraries
 - Why and How to Upgrade to Java 17 (and Prepare for 21)
 
