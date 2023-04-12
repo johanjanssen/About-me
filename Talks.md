@@ -3,6 +3,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2023
 
+## June 20-23th JCON
+- Java's Hidden Gems: Tools and Libraries
+
 ## June 1-2th JCON OpenBlend, Slovenia
 - Java's Hidden Gems: Tools and Libraries
 - Why and How to Upgrade to Java 17 (and Prepare for 21)
@@ -12,6 +15,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 ## May 10-12th DevoxxUK
 - Java's Hidden Gems: Tools and Libraries
+- Blind ignite
 
 ## March 6th Java Day Istanbul
 - Why and How to Upgrade to Java 17 (and Prepare for 21)
