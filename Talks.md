@@ -3,7 +3,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2023
 
-## October 24th Accento (not yet in ASML administration)
+## October 24th Accento
 - Java's Hidden Gems: Tools and Libraries
 
 ## June 20-23th JCON
