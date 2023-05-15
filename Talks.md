@@ -15,6 +15,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 ## May 25-26th DevDays Europe, Vilnius, Lithuania
 - Java's Hidden Gems: Tools and Libraries
+- Why and How to Upgrade to Java 17 (and Prepare for 21)
 
 ## May 10-12th DevoxxUK
 - Java's Hidden Gems: Tools and Libraries
