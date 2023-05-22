@@ -6,6 +6,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## October 24th Accento
 - Java's Hidden Gems: Tools and Libraries
 
+## June 21-22th Voxxed Luxembourg
+- Java's Hidden Gems: Tools and Libraries
+
 ## June 20-23th JCON
 - Java's Hidden Gems: Tools and Libraries
 
