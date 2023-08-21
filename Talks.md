@@ -6,6 +6,19 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## October 24th Accento
 - Java's Hidden Gems: Tools and Libraries
 
+## October 15-17th JavaCro
+- How sand and Java are used to create the world's most powerful chips (keynote)
+- Java's Hidden Gems: Tools and Libraries
+
+## October 2-6th Devoxx Belgium
+- How sand and Java are used to create the world’s most powerful chips
+
+## October 2-6th QCon San Francisco
+- Crafting the World's Most Advanced Computer Chips with Java
+
+## September 13th Java Usergroup Münster
+- How sand and Java are used to create the world's most powerful chips
+
 ## June 21-22th Voxxed Luxembourg
 - Java's Hidden Gems: Tools and Libraries
 
