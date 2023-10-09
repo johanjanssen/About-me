@@ -3,6 +3,10 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2023
 
+## November 9th J-Fall
+- How sand and Java are used to create the world's most powerful chips (normal session)
+- How sand and Java are used to create the world's most powerful chips (short 15 minute session for the NLJUG Innovation Award)
+
 ## October 24th Accento
 - Java's Hidden Gems: Tools and Libraries
 
@@ -13,7 +17,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## October 2-6th Devoxx Belgium
 - How sand and Java are used to create the world’s most powerful chips
 
-## October 2-6th QCon San Francisco
+## CANCELLED due to illness October 2-6th QCon San Francisco
 - Crafting the World's Most Advanced Computer Chips with Java
 
 ## September 13th Java Usergroup Münster
