@@ -4,6 +4,14 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- EqualsVerifier Delivers Improved Support for JPA Entities
+- GraalVM Replaces the GraalVM Updater with Language Libraries
+- Jacoco Agent Measures Code Coverage for Any Test
+- Gatling Supports Java DSL for Java and Kotlin-Based Performance Tests
+- Testcontainers Desktop Provides Support for Investigations and Debugging
+- Spring AI Provides Integration with OpenAI and Azure OpenAI
+- Eclipse Adoptium: a 2022 Retrospective and a Look towards the Future
+- WireMock Spring Boot Simplifies the WireMock Configuration for Spring Boot Applications
 - Gradle 8.0 Provides Improved Kotlin DSL and Build Times
 - SapMachine Vitals Provides Operating System and JVM Statistics
 - MicroStream Becomes Eclipse Foundation Member
