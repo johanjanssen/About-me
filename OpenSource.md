@@ -1,6 +1,6 @@
 # Open Source
 
-# [Java Upgrades](https://github.com/johanjanssen/JavaUpgrades))
+# [Java Upgrades](https://github.com/johanjanssen/JavaUpgrades)
 Created and maintained documentation and code examples to help upgrading applications from Java 8 to newer versions such as 11, 17 and 21. This was used as the basis for a talk I regularly presented and articles for the Oracle Java Magazine and InfoQ.
 
 # [Java Hidden Gems](https://github.com/johanjanssen/JavaHiddenGems)
