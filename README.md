@@ -8,6 +8,8 @@ After speaking at quite some conferences I couldn't resist organizing one myself
 
 Except from speaking I regularly write articles, mainly for InfoQ nowadays and was a member of the Dutch Java Magazine editorial board.
 
+I was awarded the [Oracle ACE Pro](https://ace.oracle.com/) title in 2023 for my contributions to the Java community.
+
 More detailed information can be found via the links below.
 
 [Talks](Talks.md) I presented in the past and talks already scheduled
