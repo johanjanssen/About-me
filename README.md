@@ -14,25 +14,10 @@ More detailed information can be found via the links below.
 
 [Articles](Articles.md) I wrote in the past
 
-[Conference](Conference activities.md) activities such as program committees
+[Conference](Conference%20activities.md) activities such as program committees
 
 [GitHub](https://github.com/johanjanssen) contains some sample projects and items I used in presentations. It also contains configuration for the Chocolatey packages I maintain.
 
 [Chocolatey](https://community.chocolatey.org/profiles/JohanJanssen) is a Windows package manager. I created and maintain packages for JDK's and JRE's of OpenJDK, AdoptOpenJDK, Liberica JDK, AWS Corretto, Microsoft's OpenJDK build and ojdkbuild. But also for other Java software such as GraalVM, JBoss WildFly and the Maven Daemon. Currently, they're downloaded more than one hundred thousand times a month.
 
-## Current talks
-Please contact me if you'd like me to give the presentation described below at your conference, organization, company, Meetup, JUG or where ever.
 
-Title: Upgrade to Java 16 or 17
-Alternative title: How and Why to Upgrade to Java 16 or 17
-
-Summary:
-Java upgrades are sometimes seen as difficult, and many applications are still running on an older version of Java. This session describes Java’s current six months release process and why applications should use a recent Java version.
-
-After that, I’ll explain the challenges of upgrading and provide some useful tips to make the process easier. Concrete examples (including solutions) will be used to show you how to upgrade your application to Java 16 or 17.
-
-Extra info:
-- Currently, I only present online.
-- This talk is based on the examples and documentation I created on [GitHub](https://github.com/johanjanssen/JavaUpgrades).
-- Duration can be anything between 25 and 60 minutes. Questions/discussions are more than welcome.
-- The goal is to help projects migrate from older versions such as Java 8 or even older to Java 17.
