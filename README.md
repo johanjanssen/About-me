@@ -14,7 +14,7 @@ More detailed information can be found via the links below.
 
 [Articles](Articles.md) I wrote in the past
 
-[Conference activities](Conference%20activities.md) activities such as program committees
+[Conference](Conference%20activities.md) activities such as program committees
 
 [GitHub](https://github.com/johanjanssen) contains some sample projects and items I used in presentations. It also contains configuration for the Chocolatey packages I maintain.
 
