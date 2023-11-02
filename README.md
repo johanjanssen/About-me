@@ -16,8 +16,6 @@ More detailed information can be found via the links below.
 
 [Conference](Conference%20activities.md) activities such as program committees
 
-[GitHub](https://github.com/johanjanssen) contains some sample projects and items I used in presentations. It also contains configuration for the Chocolatey packages I maintain.
-
-[Chocolatey](https://community.chocolatey.org/profiles/JohanJanssen) is a Windows package manager. I created and maintain packages for JDK's and JRE's of OpenJDK, AdoptOpenJDK, Liberica JDK, AWS Corretto, Microsoft's OpenJDK build and ojdkbuild. But also for other Java software such as GraalVM, JBoss WildFly and the Maven Daemon. Currently, they're downloaded more than one hundred thousand times a month.
+[Open Source](OpenSource.md) contributions contains a list of Git repositories I maintain or maintained.
 
 
