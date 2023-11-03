@@ -6,7 +6,7 @@ During the years I presented more than 90 session at conferences in 24 countries
 
 After speaking at quite some conferences I couldn't resist organizing one myself: JVMCON. I invented the concept and organized the conference. Attendees who bought a ticket rated the talks that were submitted in the call for papers. During that process they couldn't see the presenter's information, the rating was purely on content. The top-rated talks were selected. Next to that we invited some well known speakers such as Venkat Subramaniam and Hadi Hariri. The conference was sold out and highly rated by the more than 300 attendees.
 
-Except from speaking I regularly write articles, mainly for InfoQ nowadays and was a member of the Dutch Java Magazine editorial board.
+Except from speaking I regularly write articles, mainly for [InfoQ](https://www.infoq.com/profile/Johan-Janssen/) nowadays and was a member of the Dutch Java Magazine editorial board.
 
 I was awarded the [Oracle ACE Pro](https://ace.oracle.com/) title in 2023 for my contributions to the Java community.
 
