@@ -1,6 +1,11 @@
 # Talks
 An incomplete list with talks I have presented in the past, or will present in the future.
 
+# 2024
+
+## January 22-23th Voxxed CERN
+- How sand and Java are used to create the world's most powerful chips
+  
 # 2023
 
 ## November 9th J-Fall
