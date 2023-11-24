@@ -7,7 +7,7 @@ Created and maintained documentation and code examples to help upgrading applica
 Created a repository of 60+ interesting tools and libraries with many examples. Used as the basis for a talk I regularly presented to teach developers about tools and libraries they didn't knew.
 
 # Chocolatey packages
-Created and maintained 100+ Chocolatey Packages from 2018 until the end of 2023 to install OpenJDK, Adoptium Temurin, GraalVM, Microsoft OpenJDK, Bellsoft Liberica, Amazon Corretto, WildFly, SapMachine, Maven Daemon, ojdkbuild and AdoptOpenJDK on Windows. Monthly downloads increased over time and reached more than one hundred thousand downloads a month for quite some time and more than five million downloads in total.
+Created and maintained 100+ Chocolatey Packages from 2018 to install OpenJDK, Adoptium Temurin, GraalVM, Microsoft OpenJDK, Bellsoft Liberica, Amazon Corretto, WildFly, SapMachine, Maven Daemon, ojdkbuild and AdoptOpenJDK on Windows. Monthly downloads increased over time and reached more than one hundred thousand downloads a month for quite some time and more than five million downloads in total.
 
 # [Java Continuous Delivery Pipeline](https://github.com/johanjanssen/JavaContinuousDeliveryPipeline)
 *No longer maintained* The project was used in presentation to show how relatively easy it was to setup a continuous delivery pipeline with Docker, Jenkins, SonarQube, Nexus, Gitlab, Gatling, OWASP Dependency Check and PiTest (mutation testing)
