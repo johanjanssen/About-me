@@ -4,6 +4,7 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- Apache Pinot 1.0 Provides a Realtime Distributed OLAP datastore
 - EqualsVerifier Delivers Improved Support for JPA Entities
 - GraalVM Replaces the GraalVM Updater with Language Libraries
 - Jacoco Agent Measures Code Coverage for Any Test
