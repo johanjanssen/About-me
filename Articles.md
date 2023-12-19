@@ -4,6 +4,8 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- Oracle Java Platform Extension for VSCode Delivers Comprehensive Support for Java Applications
+- Quarkus 3.7 Will Require Java 17
 - Apache Pinot 1.0 Provides a Realtime Distributed OLAP datastore
 - EqualsVerifier Delivers Improved Support for JPA Entities
 - GraalVM Replaces the GraalVM Updater with Language Libraries
