@@ -6,7 +6,7 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## January 22-23th January Voxxed CERN
 - How sand and Java are used to create the world's most powerful chips
 
-## Devworld 29 February and 1th March Amsterdam
+## February 29th and March 1st Devworld Amsterdam
 - Java's Hidden Gems: Tools and Libraries
 
   
