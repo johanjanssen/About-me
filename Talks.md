@@ -9,6 +9,8 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## February 29th and March 1st Devworld Amsterdam
 - Java's Hidden Gems: Tools and Libraries
 
+## March 28-29th Voxxed Bucharest
+- ??
   
 # 2023
 
