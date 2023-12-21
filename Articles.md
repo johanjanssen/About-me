@@ -4,6 +4,7 @@ An incomplete list with (news) articles I wrote over the years.
 # 2023
 
 ## InfoQ
+- BellSoft Released Liberica with CRaC for Improved Startup Speed of Applications
 - Oracle Java Platform Extension for VSCode Delivers Comprehensive Support for Java Applications
 - Quarkus 3.7 Will Require Java 17
 - Apache Pinot 1.0 Provides a Realtime Distributed OLAP datastore
