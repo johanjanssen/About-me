@@ -26,6 +26,9 @@ An incomplete list with (news) articles I wrote over the years.
 - SourceBuddy Compiles Dynamically Created Java Source Code
 - Just, a New CLI for Spring Boot Applications
 
+## foojay
+- OpenJDK Migration Book Review
+
 # 2022
 
 ## InfoQ
