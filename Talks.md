@@ -3,14 +3,17 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2024
 
-## January 22-23th January Voxxed CERN
+## May 15-17th GeeCON Krakow
+- How sand and Java are used to create the world's most powerful chips
+  
+## March 28-29th Voxxed Bucharest
 - How sand and Java are used to create the world's most powerful chips
 
 ## February 29th and March 1st Devworld Amsterdam
 - Java's Hidden Gems: Tools and Libraries
 
-## March 28-29th Voxxed Bucharest
-- ??
+## January 22-23th January Voxxed CERN
+- How sand and Java are used to create the world's most powerful chips
   
 # 2023
 
