@@ -3,6 +3,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2024
 
+## June 13-15th DevConf.CZ Brno
+- How sand and Java are used to create the world's most powerful chips 
+
 ## June 4th JNation Coimbra
 - Java's Hidden Gems: Tools and Libraries
 
