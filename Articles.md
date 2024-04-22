@@ -1,6 +1,12 @@
 # Articles
 An incomplete list with (news) articles I wrote over the years.
 
+# 2024
+
+## InfoQ
+- JDK Mission Control 9.0.0 Requires JDK 17
+- GraalVM for JDK 22 Delivers Support for JDK 22 JEPs and New Truffle Version
+
 # 2023
 
 ## InfoQ
