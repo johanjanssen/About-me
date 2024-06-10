@@ -3,6 +3,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2024
 
+## November 1-2th Moldova DevCon Chișinău
+- How sand and Java are used to create the world's most powerful chips
+  
 ## June 13-15th DevConf.CZ Brno
 - How sand and Java are used to create the world's most powerful chips 
 
