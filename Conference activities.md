@@ -1,8 +1,12 @@
 # Conference activities
 
+# 2024
+## November 7th J-Fall
+- NLJUG innovation award committee
+
 # 2023
 ## November 9th J-Fall
-- Nominated our iACT project at ASML for the NLJUG Innovation Award. The jury nominated us in the top three and the 1800 attendees voted our project as the second most innovative one.
+- Submitted our iACT project at ASML for the NLJUG Innovation Award. The jury nominated us in the top three and the 1800 attendees voted our project as the second most innovative one.
 
 # 2022
 ## November 3th J-Fall
