@@ -6,6 +6,9 @@ An incomplete list with talks I have presented in the past, or will present in t
 ## November 1-2th Moldova DevCon Chișinău
 - How sand and Java are used to create the world's most powerful chips
 
+## October 18-19th Voxxed Thessaloniki
+- Java's Hidden Gems: Tools and Libraries
+
 ## September 4-5th JavaZone Oslo
 - How sand and Java are used to create the world's most powerful chips
 
