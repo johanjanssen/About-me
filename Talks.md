@@ -3,6 +3,15 @@ An incomplete list with talks I have presented in the past, or will present in t
 
 # 2024
 
+## December 11-13th YOW! Sydney
+- Java's Hidden Gems: Tools and Libraries
+
+## December 9-10th YOW! Brisbane
+- Java's Hidden Gems: Tools and Libraries
+
+## December 3-6th YOW! Melbourne
+- Java's Hidden Gems: Tools and Libraries
+
 ## November 1-2th Moldova DevCon Chișinău
 - How sand and Java are used to create the world's most powerful chips
 
