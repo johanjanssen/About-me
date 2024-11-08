@@ -4,6 +4,10 @@ An incomplete list with (news) articles I wrote over the years.
 # 2024
 
 ## InfoQ
+- Graal Cloud Native IntelliJ IDEA Plugin Enables Cloud Agnostic Projects Based on Micronaut
+- The Devoxx Genie IntelliJ Plugin Provides Access to Local or Cloud Based LLM Models
+- JetBrains IntelliJ IDEA 2024.1 Delivers Support for Java 22 Features
+- Spring Now Offers Free Access for the Spring Academy Pro Content
 - JDK Mission Control 9.0.0 Requires JDK 17
 - GraalVM for JDK 22 Delivers Support for JDK 22 JEPs and New Truffle Version
 
